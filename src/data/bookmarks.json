@@ -1,0 +1,1661 @@
+[
+  {
+    "name": "🤖 AI Tools & Platforms",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "ChatGPT",
+            "url": "https://chatgpt.com/"
+          },
+          {
+            "title": "Flow — Google Labs",
+            "url": "https://labs.google/fx/tools/flow"
+          },
+          {
+            "title": "Google AI Studio",
+            "url": "https://aistudio.google.com/u/1/prompts/new_chat"
+          },
+          {
+            "title": "Hugging Face",
+            "url": "https://huggingface.co/"
+          },
+          {
+            "title": "ImageFX — Google Labs",
+            "url": "https://labs.google/fx/tools/image-fx"
+          },
+          {
+            "title": "Leonardo.Ai",
+            "url": "https://app.leonardo.ai/"
+          },
+          {
+            "title": "LobeHub",
+            "url": "https://lobehub.com/"
+          },
+          {
+            "title": "Mapify",
+            "url": "https://mapify.so/"
+          },
+          {
+            "title": "Mem0",
+            "url": "https://app.mem0.ai/dashboard/get-started"
+          },
+          {
+            "title": "Meshy AI",
+            "url": "https://www.meshy.ai/workspace"
+          },
+          {
+            "title": "Model Recommender",
+            "url": "https://artificialanalysis.ai/models/recommend"
+          },
+          {
+            "title": "Models.dev",
+            "url": "https://models.dev/"
+          },
+          {
+            "title": "NotebookLM",
+            "url": "https://notebooklm.google.com/"
+          },
+          {
+            "title": "Perplexity",
+            "url": "https://www.perplexity.ai/"
+          },
+          {
+            "title": "Qwen",
+            "url": "https://chat.qwen.ai/"
+          },
+          {
+            "title": "Research Rabbit",
+            "url": "https://researchrabbitapp.com/home"
+          },
+          {
+            "title": "Sora",
+            "url": "https://sora.com/explore/images"
+          },
+          {
+            "title": "Stability AI",
+            "url": "https://stability.ai/"
+          },
+          {
+            "title": "UNSUPERVISED LEARNING",
+            "url": "https://unsupervised-learning.com/"
+          },
+          {
+            "title": "Waystation.ai",
+            "url": "https://waystation.ai/app"
+          },
+          {
+            "title": "ZZZ Code AI Generator",
+            "url": "https://zzzcode.ai/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "⚡ AI Coding & Vibe-Coding",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "Agentic Prompting Blog Post",
+            "url": "https://prompton.wordpress.com/2025/07/28/%F0%9F%9A%80-agentic-prompting-unleash-ai-agents-to-build-your-dream-product-from-scratch-%F0%9F%98%B1/"
+          },
+          {
+            "title": "Amp",
+            "url": "https://ampcode.com/"
+          },
+          {
+            "title": "APM CLI Guide",
+            "url": "https://agentic-project-management.dev/docs/cli"
+          },
+          {
+            "title": "Aura",
+            "url": "https://www.aura.build/"
+          },
+          {
+            "title": "Aurasites",
+            "url": "https://aurasites.vercel.app/"
+          },
+          {
+            "title": "Awesome GitHub Copilot",
+            "url": "https://awesome-copilot.github.com/"
+          },
+          {
+            "title": "bolt.new",
+            "url": "https://bolt.new/"
+          },
+          {
+            "title": "Claude Certifications",
+            "url": "https://claudecertifications.com/"
+          },
+          {
+            "title": "Claude Code Cheatsheet",
+            "url": "https://leadgenjay.com/r/claude-code-cheatsheet"
+          },
+          {
+            "title": "Claude Code Templates",
+            "url": "https://app.aitmpl.com/"
+          },
+          {
+            "title": "CodeAgent Directory",
+            "url": "https://www.codeagent.directory/"
+          },
+          {
+            "title": "Emergent",
+            "url": "https://app.emergent.sh/"
+          },
+          {
+            "title": "getdesign.md",
+            "url": "https://getdesign.md/"
+          },
+          {
+            "title": "Gitingest",
+            "url": "https://gitingest.com/"
+          },
+          {
+            "title": "goose",
+            "url": "https://block.github.io/goose/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://hub.continue.dev/hub"
+          },
+          {
+            "title": "jellydn",
+            "url": "https://github.com/jellydn/ai-launcher"
+          },
+          {
+            "title": "Kiro Powers Marketplace",
+            "url": "https://kiropower.dev/"
+          },
+          {
+            "title": "Learn Claude Code",
+            "url": "https://learn.shareai.run/en/"
+          },
+          {
+            "title": "Open Agent",
+            "url": "https://agent.thomas.md/"
+          },
+          {
+            "title": "Open Interpreter",
+            "url": "https://www.openinterpreter.com/"
+          },
+          {
+            "title": "OpenCode — Ecosystem",
+            "url": "https://opencode.ai/docs/ecosystem/"
+          },
+          {
+            "title": "OpenHands",
+            "url": "https://openhands.dev/"
+          },
+          {
+            "title": "Openui",
+            "url": "https://openui.fly.dev/ai/new"
+          },
+          {
+            "title": "Pencil",
+            "url": "https://www.pencil.dev/"
+          },
+          {
+            "title": "Pencil Docs",
+            "url": "https://docs.pencil.dev/"
+          },
+          {
+            "title": "Promoting AI Agents",
+            "url": "https://world.hey.com/dhh/promoting-ai-agents-3ee04945"
+          },
+          {
+            "title": "Repomix",
+            "url": "https://repomix.com/"
+          },
+          {
+            "title": "TmuxAI",
+            "url": "https://tmuxai.dev/"
+          },
+          {
+            "title": "TypeUI",
+            "url": "https://www.typeui.sh/"
+          },
+          {
+            "title": "v0",
+            "url": "https://v0.app/"
+          },
+          {
+            "title": "VoltAgent",
+            "url": "https://voltagent.dev/"
+          },
+          {
+            "title": "Z Code",
+            "url": "https://zcode-ai.com/"
+          },
+          {
+            "title": "Zread",
+            "url": "https://zread.ai/frankbria/ralph-claude-code"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🔌 MCP Servers & AI Agents",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "Awesome MCP Servers",
+            "url": "https://mcpservers.org/"
+          },
+          {
+            "title": "Best MCP Servers",
+            "url": "https://playbooks.com/mcp"
+          },
+          {
+            "title": "FastMCP",
+            "url": "https://gofastmcp.com/"
+          },
+          {
+            "title": "mapcn",
+            "url": "https://mapcn.vercel.app/docs"
+          },
+          {
+            "title": "MCP Market",
+            "url": "https://mcpmarket.com/"
+          },
+          {
+            "title": "n8n Community",
+            "url": "https://community.n8n.io/top?period=daily"
+          },
+          {
+            "title": "Plugged.in",
+            "url": "https://plugged.in/analytics"
+          },
+          {
+            "title": "Smithery",
+            "url": "https://smithery.ai/"
+          },
+          {
+            "title": "The Agent Skills Directory",
+            "url": "https://skills.sh/"
+          },
+          {
+            "title": "MCP Docs",
+            "url": "https://modelcontextprotocol.io/docs/getting-started/intro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "📝 Prompt Engineering",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "Daniel Miessler",
+            "url": "https://danielmiessler.com/"
+          },
+          {
+            "title": "Dev Atrophy Test",
+            "url": "https://www.devatrophy.com/"
+          },
+          {
+            "title": "Geoffrey Huntley",
+            "url": "https://ghuntley.com/"
+          },
+          {
+            "title": "Prompt Advance",
+            "url": "https://promptadvance.club/"
+          },
+          {
+            "title": "Prompt Engine",
+            "url": "https://www.promptengine.cc/"
+          },
+          {
+            "title": "Prompt Engineering Guide",
+            "url": "https://learnprompting.org/docs/introduction"
+          },
+          {
+            "title": "Promptfy",
+            "url": "https://www.promptfy.dev/"
+          },
+          {
+            "title": "prompts.chat",
+            "url": "https://prompts.chat/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🏗️ UI Libraries & Design Systems",
+    "subs": [
+      {
+        "name": "shadcn/ui Ecosystem",
+        "links": [
+          {
+            "title": "FormCN",
+            "url": "https://formcn.dev/"
+          },
+          {
+            "title": "PDFx",
+            "url": "https://pdfx.akashpise.dev/"
+          },
+          {
+            "title": "SATIS UI",
+            "url": "https://satisui.xyz/"
+          },
+          {
+            "title": "Shadcn Studio",
+            "url": "https://shadcnstudio.com/"
+          },
+          {
+            "title": "Shadcnblocks",
+            "url": "https://www.shadcnblocks.com/"
+          },
+          {
+            "title": "ShadcnSpace",
+            "url": "https://shadcnspace.com/"
+          },
+          {
+            "title": "Tailark",
+            "url": "https://tailark.com/"
+          },
+          {
+            "title": "tweakcn",
+            "url": "https://tweakcn.com/editor/theme"
+          },
+          {
+            "title": "tweakcn",
+            "url": "https://tweakcn.com/"
+          }
+        ]
+      },
+      {
+        "name": "Animation & Effects Libraries",
+        "links": [
+          {
+            "title": "Aceternity UI",
+            "url": "https://blog.aceternity.com/"
+          },
+          {
+            "title": "Aceternity UI",
+            "url": "https://ui.aceternity.com/components"
+          },
+          {
+            "title": "Fancy Components",
+            "url": "https://www.fancycomponents.dev/components"
+          },
+          {
+            "title": "FutureUI",
+            "url": "https://futureui.studio/"
+          },
+          {
+            "title": "Lightswind UI",
+            "url": "https://lightswind.com/components"
+          },
+          {
+            "title": "Magic UI",
+            "url": "https://magicui.design/"
+          },
+          {
+            "title": "React Bits",
+            "url": "https://reactbits.dev/"
+          },
+          {
+            "title": "Skiper UI",
+            "url": "https://skiper-ui.com/"
+          }
+        ]
+      },
+      {
+        "name": "Headless & Accessible Components",
+        "links": [
+          {
+            "title": "Ark UI",
+            "url": "https://ark-ui.com/docs/overview/about"
+          },
+          {
+            "title": "Base UI",
+            "url": "https://base-ui.com/react/overview/quick-start"
+          },
+          {
+            "title": "Headless UI",
+            "url": "https://headlessui.com/"
+          },
+          {
+            "title": "Radix UI",
+            "url": "https://www.radix-ui.com/"
+          },
+          {
+            "title": "Reka.js",
+            "url": "https://reka.js.org/docs/introduction"
+          }
+        ]
+      },
+      {
+        "name": "Full UI Frameworks",
+        "links": [
+          {
+            "title": "21st.dev",
+            "url": "https://21st.dev/community/components"
+          },
+          {
+            "title": "Ant Design",
+            "url": "https://ant.design/"
+          },
+          {
+            "title": "Beste UI",
+            "url": "https://ui.beste.co/"
+          },
+          {
+            "title": "Chakra UI",
+            "url": "https://chakra-ui.com/"
+          },
+          {
+            "title": "Craft.js",
+            "url": "https://craft.js.org/docs/overview"
+          },
+          {
+            "title": "Cult UI Pro",
+            "url": "https://pro.cult-ui.com/templates"
+          },
+          {
+            "title": "GAIA UI",
+            "url": "https://ui.heygaia.io/"
+          },
+          {
+            "title": "GrapesJS",
+            "url": "https://grapesjs.com/"
+          },
+          {
+            "title": "HeroUI (formerly NextUI)",
+            "url": "https://www.heroui.com/docs/guide/introduction"
+          },
+          {
+            "title": "Indie UI",
+            "url": "https://ui.indie-starter.dev/"
+          },
+          {
+            "title": "Kibo UI",
+            "url": "https://www.kibo-ui.com/"
+          },
+          {
+            "title": "LiftKit",
+            "url": "https://www.chainlift.io/liftkit"
+          },
+          {
+            "title": "Mantine",
+            "url": "https://mantine.dev/"
+          },
+          {
+            "title": "Material Design v2",
+            "url": "https://m2.material.io/"
+          },
+          {
+            "title": "Material Design v3",
+            "url": "https://m3.material.io/"
+          },
+          {
+            "title": "Mvpblocks",
+            "url": "https://blocks.mvp-subha.me/"
+          },
+          {
+            "title": "Neobrutal UI",
+            "url": "https://www.neobrutalui.live/docs"
+          },
+          {
+            "title": "Once UI",
+            "url": "https://docs.once-ui.com/once-ui/components/compareImage"
+          },
+          {
+            "title": "Once UI",
+            "url": "https://once-ui.com/"
+          },
+          {
+            "title": "Once UI Docs",
+            "url": "https://docs.once-ui.com/"
+          },
+          {
+            "title": "Orbit Design System",
+            "url": "https://orbit.kiwi/"
+          },
+          {
+            "title": "Origin UI",
+            "url": "https://originui.com/layouts"
+          },
+          {
+            "title": "React Admin",
+            "url": "https://marmelab.com/react-admin/"
+          },
+          {
+            "title": "ReUI",
+            "url": "https://reui.io/docs"
+          },
+          {
+            "title": "SHSF UI",
+            "url": "https://www.shsfui.com/"
+          },
+          {
+            "title": "Stack Sorted",
+            "url": "https://stacksorted.com/buttons"
+          },
+          {
+            "title": "StyleX",
+            "url": "https://stylexjs.com/"
+          },
+          {
+            "title": "Tailblocks",
+            "url": "https://tailblocks.cc/"
+          },
+          {
+            "title": "Tailus UI React",
+            "url": "https://ui.tailus.io/"
+          },
+          {
+            "title": "UI Bakery",
+            "url": "https://uibakery.io/solutions/admin-panels"
+          },
+          {
+            "title": "UI Bakery",
+            "url": "https://uibakery.io/"
+          },
+          {
+            "title": "UI Tripled",
+            "url": "https://ui.tripled.work/"
+          },
+          {
+            "title": "UIverse",
+            "url": "https://uiverse.io/"
+          },
+          {
+            "title": "Vaadin",
+            "url": "https://vaadin.com/"
+          },
+          {
+            "title": "Vaadin Components",
+            "url": "https://vaadin.com/docs/latest/components"
+          },
+          {
+            "title": "Windy Toolbox",
+            "url": "https://windytoolbox.com/"
+          }
+        ]
+      },
+      {
+        "name": "Design System Resources",
+        "links": [
+          {
+            "title": "Design Systems Database & Gallery",
+            "url": "https://designsystems.surf/"
+          },
+          {
+            "title": "Design Systems Repo",
+            "url": "https://designsystemsrepo.com/design-systems-recent"
+          },
+          {
+            "title": "Hey Design Systems!",
+            "url": "https://heydesign.systems/"
+          },
+          {
+            "title": "The Design System Guide",
+            "url": "https://thedesignsystem.guide/"
+          },
+          {
+            "title": "UX Strategy Kit",
+            "url": "https://strategykit.liquid.merck.design/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "✨ Animation & Motion",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "36 GSAP ScrollTrigger Examples",
+            "url": "https://freefrontend.com/scroll-trigger-js/"
+          },
+          {
+            "title": "50 Interactive CSS Scroll Effects",
+            "url": "https://prismic.io/blog/css-scroll-effects"
+          },
+          {
+            "title": "Animated Backgrounds",
+            "url": "https://animatedbackgrounds.me/"
+          },
+          {
+            "title": "Animated Fluent Emojis",
+            "url": "https://animated-fluent-emoji.vercel.app/"
+          },
+          {
+            "title": "Anime.js",
+            "url": "https://animejs.com/"
+          },
+          {
+            "title": "barba.js",
+            "url": "https://barba.js.org/"
+          },
+          {
+            "title": "barba.js",
+            "url": "https://barba.js.org/features/extensible/"
+          },
+          {
+            "title": "CSS Animation Collection",
+            "url": "https://prismic.io/guides/css-animations"
+          },
+          {
+            "title": "GSAP",
+            "url": "https://gsap.com/"
+          },
+          {
+            "title": "GSAP + Webflow Meetup",
+            "url": "https://webflow-gsap-meetup.webflow.io/"
+          },
+          {
+            "title": "LottieFiles",
+            "url": "https://app.lottiefiles.com/"
+          },
+          {
+            "title": "LottieFlow",
+            "url": "https://finsweet.com/lottieflow"
+          },
+          {
+            "title": "Markdown Video",
+            "url": "https://markdowneditor.avikmukherjee.me/"
+          },
+          {
+            "title": "Motion Graphic Design Principles",
+            "url": "https://motion.zajno.com/"
+          },
+          {
+            "title": "PixiJS",
+            "url": "https://pixijs.com/"
+          },
+          {
+            "title": "React Spring",
+            "url": "https://www.react-spring.dev/docs/getting-started"
+          },
+          {
+            "title": "Remotion",
+            "url": "https://www.remotion.dev/"
+          },
+          {
+            "title": "Three.js",
+            "url": "https://threejs.org/"
+          },
+          {
+            "title": "Unicorn Studio",
+            "url": "https://www.unicorn.studio/dashboard"
+          },
+          {
+            "title": "useAnimations",
+            "url": "https://useanimations.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🎨 CSS, Color & Styling",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "1140px Grid Tool",
+            "url": "https://tools.livingwithpixels.com/1140-with-20px-gutter/"
+          },
+          {
+            "title": "Adobe Color",
+            "url": "https://color.adobe.com/"
+          },
+          {
+            "title": "Color Scales — Components AI",
+            "url": "https://components.ai/color-scale/alNjavQElvQ93Dm6vK8e"
+          },
+          {
+            "title": "CSS",
+            "url": "https://css-tricks.com/"
+          },
+          {
+            "title": "CSS Flexbox Layout Guide",
+            "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+          },
+          {
+            "title": "CSS Gradient Generator",
+            "url": "https://cssgradient.io/"
+          },
+          {
+            "title": "CSS Portal",
+            "url": "https://www.cssportal.com/"
+          },
+          {
+            "title": "CSS Properties Index",
+            "url": "https://meiert.com/indices/css-properties/"
+          },
+          {
+            "title": "cssFilters.co",
+            "url": "https://www.cssfilters.co/"
+          },
+          {
+            "title": "Deeditor",
+            "url": "https://deeditor.com/"
+          },
+          {
+            "title": "Easing Gradients",
+            "url": "https://larsenwork.com/easing-gradients/"
+          },
+          {
+            "title": "fffuel",
+            "url": "https://www.fffuel.co/"
+          },
+          {
+            "title": "Flexbox Labs",
+            "url": "https://flexboxlabs.netlify.app/"
+          },
+          {
+            "title": "Glassmorphism CSS Generator",
+            "url": "https://hype4.academy/tools/glassmorphism-generator"
+          },
+          {
+            "title": "Haikei",
+            "url": "https://app.haikei.app/"
+          },
+          {
+            "title": "HTML Color Picker",
+            "url": "https://www.w3schools.com/colors/colors_picker.asp"
+          },
+          {
+            "title": "Neumorphism CSS Shadow Generator",
+            "url": "https://neumorphism.io/#e0e0e0"
+          },
+          {
+            "title": "Open Color",
+            "url": "https://yeun.github.io/open-color/"
+          },
+          {
+            "title": "P.C.M. Color Mixer",
+            "url": "https://colormixer.web.app/"
+          },
+          {
+            "title": "Palette Generator",
+            "url": "https://websitestylekit.com/"
+          },
+          {
+            "title": "PaletteMaker",
+            "url": "https://palettemaker.com/app"
+          },
+          {
+            "title": "Realtime Colors",
+            "url": "https://www.realtimecolors.com/"
+          },
+          {
+            "title": "Shadowlord",
+            "url": "https://noeldelgado.github.io/shadowlord/"
+          },
+          {
+            "title": "Super Designer",
+            "url": "https://superdesigner.co/tools"
+          },
+          {
+            "title": "SVG Path Visualizer",
+            "url": "https://svg-path-visualizer.netlify.app/"
+          },
+          {
+            "title": "SVG Viewer",
+            "url": "https://www.svgviewer.dev/"
+          },
+          {
+            "title": "Tailwind CSS Animations Plugin",
+            "url": "https://tailwindcss-animations.vercel.app/"
+          },
+          {
+            "title": "tailwindcss aspect ratio",
+            "url": "https://github.com/tailwindlabs/tailwindcss-aspect-ratio"
+          },
+          {
+            "title": "Typescale",
+            "url": "https://typescale.com/"
+          },
+          {
+            "title": "Web Code Tools",
+            "url": "https://webcode.tools/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "⚛️ JavaScript & TypeScript",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "30 Seconds of Code",
+            "url": "https://www.30secondsofcode.org/"
+          },
+          {
+            "title": "33 JavaScript Concepts",
+            "url": "https://33jsconcepts.com/"
+          },
+          {
+            "title": "Devhints — TL;DR for Developer Docs",
+            "url": "https://devhints.io/"
+          },
+          {
+            "title": "Drizzle ORM",
+            "url": "https://orm.drizzle.team/"
+          },
+          {
+            "title": "JavaScript Array Explorer",
+            "url": "https://sdras.github.io/array-explorer/"
+          },
+          {
+            "title": "JavaScript First Steps",
+            "url": "https://anjana.dev/javascript-first-steps/"
+          },
+          {
+            "title": "JSer.dev",
+            "url": "https://jser.dev/"
+          },
+          {
+            "title": "Josh W Comeau",
+            "url": "https://www.joshwcomeau.com/"
+          },
+          {
+            "title": "Preact",
+            "url": "https://preactjs.com/"
+          },
+          {
+            "title": "React — pdf",
+            "url": "https://react-pdf.org/advanced"
+          },
+          {
+            "title": "React Internals Deep Dive",
+            "url": "https://jser.dev/series/react-source-code-walkthrough/"
+          },
+          {
+            "title": "React, Visualized",
+            "url": "https://react.gg/visualized"
+          },
+          {
+            "title": "Supercharge React Website SEO",
+            "url": "https://medium.com/@maxjerry0107/supercharge-your-react-websites-seo-with-these-essential-libraries-16bd60a82cfe"
+          },
+          {
+            "title": "Task Master Docs",
+            "url": "https://docs.task-master.dev/introduction"
+          },
+          {
+            "title": "The Modern JavaScript Tutorial",
+            "url": "https://javascript.info/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🌐 Frameworks & CMS",
+    "subs": [
+      {
+        "name": "Astro",
+        "links": [
+          {
+            "title": "50+ Best Astro Themes 2026",
+            "url": "https://themefisher.com/best-astro-themes"
+          },
+          {
+            "title": "Astro AntfuStyle Theme",
+            "url": "https://astro-antfustyle-theme.vercel.app/blog/project-structure/"
+          },
+          {
+            "title": "Astro Portfolio v3",
+            "url": "https://www.mintlify.com/lewis-kori/astro-portfolio-v3/features/project-structure"
+          },
+          {
+            "title": "Build Modern Websites with Astro",
+            "url": "https://jamesqquick.com/course/modern-websites-with-astro/01-welcome-and-resources/welcome-and-thank-you"
+          },
+          {
+            "title": "Free Astro Templates",
+            "url": "https://htmlrev.com/free-astro-templates.html"
+          },
+          {
+            "title": "Free Astro Templates",
+            "url": "https://www.wrappixel.com/templates/category/astro-templates/"
+          },
+          {
+            "title": "Themefisher — Astro Themes",
+            "url": "https://themefisher.com/astro-themes"
+          }
+        ]
+      },
+      {
+        "name": "Next.js / React",
+        "links": [
+          {
+            "title": "Full Stack Open",
+            "url": "https://fullstackopen.com/en/"
+          },
+          {
+            "title": "Next.js Commerce Templates for Shopify",
+            "url": "https://vercel.com/templates/ecommerce/nextjs-commerce"
+          },
+          {
+            "title": "Payload CMS",
+            "url": "https://payloadcms.com/"
+          }
+        ]
+      },
+      {
+        "name": "WordPress",
+        "links": [
+          {
+            "title": "350 NEW Elementor Template Kits Free",
+            "url": "https://hacksnation.com/d/1952-350-new-elementor-template-kits-free"
+          },
+          {
+            "title": "Chipmunk Theme",
+            "url": "https://chipmunktheme.com/"
+          },
+          {
+            "title": "Faust.js",
+            "url": "https://faustjs.org/"
+          },
+          {
+            "title": "Frost WP Theme",
+            "url": "https://frostwp.com/download/"
+          },
+          {
+            "title": "GenerateWP",
+            "url": "https://generatewp.com/"
+          },
+          {
+            "title": "HacksNation",
+            "url": "https://hacksnation.com/"
+          },
+          {
+            "title": "StudioPress Themes",
+            "url": "https://www.studiopress.com/themes/"
+          },
+          {
+            "title": "ThemeShaper",
+            "url": "https://themeshaper.com/"
+          },
+          {
+            "title": "WordPress Theme Detector",
+            "url": "https://www.wpthemedetector.com/"
+          },
+          {
+            "title": "WPGraphQL",
+            "url": "https://www.wpgraphql.com/"
+          },
+          {
+            "title": "WrapPixel",
+            "url": "https://www.wrappixel.com/"
+          }
+        ]
+      },
+      {
+        "name": "Other Platforms & Tools",
+        "links": [
+          {
+            "title": "Firebase Console",
+            "url": "https://console.firebase.google.com/"
+          },
+          {
+            "title": "Nocodb",
+            "url": "https://app.nocodb.com/"
+          },
+          {
+            "title": "Slidev",
+            "url": "https://sli.dev/"
+          },
+          {
+            "title": "Spacedrive",
+            "url": "https://www.spacedrive.com/"
+          },
+          {
+            "title": "Webstudio",
+            "url": "https://github.com/orgs/webstudio-is/projects/11/views/1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🅰️ Fonts & Typography",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "1001 Fonts",
+            "url": "https://www.1001fonts.com/"
+          },
+          {
+            "title": "Arabic Fonts",
+            "url": "https://arabicfonts.net/"
+          },
+          {
+            "title": "BRUSHEZ",
+            "url": "https://brushez.com/"
+          },
+          {
+            "title": "DaFont",
+            "url": "https://www.dafont.com/"
+          },
+          {
+            "title": "Font Finder by Image",
+            "url": "https://www.fontspring.com/matcherator"
+          },
+          {
+            "title": "Font Library",
+            "url": "https://fontlibrary.dev/"
+          },
+          {
+            "title": "Font Pair",
+            "url": "https://www.fontpair.co/"
+          },
+          {
+            "title": "Font.Download",
+            "url": "https://font.download/"
+          },
+          {
+            "title": "Fontjoy",
+            "url": "https://fontjoy.com/"
+          },
+          {
+            "title": "Fontshare",
+            "url": "https://www.fontshare.com/"
+          },
+          {
+            "title": "Google Fonts",
+            "url": "https://fonts.google.com/"
+          },
+          {
+            "title": "iFonts",
+            "url": "https://ifonts.xyz/"
+          },
+          {
+            "title": "Indian Type Foundry",
+            "url": "https://www.indiantypefoundry.com/"
+          },
+          {
+            "title": "LIBRE FONTS BY WOMXN",
+            "url": "https://www.design-research.be/by-womxn/"
+          },
+          {
+            "title": "Monaspace",
+            "url": "https://monaspace.githubnext.com/"
+          },
+          {
+            "title": "Open Foundry",
+            "url": "https://open-foundry.com/"
+          },
+          {
+            "title": "Origastock Arabic Fonts",
+            "url": "https://www.origastock.com/fonts/arabic-fonts-1.html"
+          },
+          {
+            "title": "Use & Modify",
+            "url": "https://usemodify.com/"
+          },
+          {
+            "title": "Velvetyne",
+            "url": "https://www.velvetyne.fr/"
+          },
+          {
+            "title": "Arab Fonts",
+            "url": "https://arbfonts.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🖼️ Icons, Illustrations & Assets",
+    "subs": [
+      {
+        "name": "Icon Sets",
+        "links": [
+          {
+            "title": "App Icons",
+            "url": "https://appicons.co/"
+          },
+          {
+            "title": "CSS.GG",
+            "url": "https://css.gg/"
+          },
+          {
+            "title": "Flaticon",
+            "url": "https://www.flaticon.com/"
+          },
+          {
+            "title": "Font Awesome",
+            "url": "https://fontawesome.com/icons"
+          },
+          {
+            "title": "Heroicons",
+            "url": "https://heroicons.com/"
+          },
+          {
+            "title": "icon-icons",
+            "url": "https://icon-icons.com/"
+          },
+          {
+            "title": "Icônes",
+            "url": "https://icones.js.org/"
+          },
+          {
+            "title": "Ionicons",
+            "url": "https://ionic.io/ionicons"
+          },
+          {
+            "title": "Isocons",
+            "url": "https://www.isocons.app/"
+          },
+          {
+            "title": "macOSicons",
+            "url": "https://macosicons.com/"
+          },
+          {
+            "title": "Pictogrammers",
+            "url": "https://pictogrammers.com/"
+          },
+          {
+            "title": "React Icons",
+            "url": "https://react-icons.github.io/react-icons/"
+          },
+          {
+            "title": "Simple Icons",
+            "url": "https://simpleicons.org/"
+          },
+          {
+            "title": "SVG Logos",
+            "url": "https://icon-sets.iconify.design/logos/"
+          },
+          {
+            "title": "Tech Stack Icons — SVG",
+            "url": "https://www.tech-stack-icons.com/"
+          }
+        ]
+      },
+      {
+        "name": "Illustrations & 3D",
+        "links": [
+          {
+            "title": "ClipartMax",
+            "url": "https://www.clipartmax.com/"
+          },
+          {
+            "title": "Craftwork",
+            "url": "https://craftwork.design/"
+          },
+          {
+            "title": "Handy Arrows",
+            "url": "https://handyarrows.com/"
+          },
+          {
+            "title": "Sketchfab",
+            "url": "https://sketchfab.com/feed"
+          },
+          {
+            "title": "The Thiings Collection",
+            "url": "https://www.thiings.co/things"
+          },
+          {
+            "title": "theSVG",
+            "url": "https://thesvg.org/"
+          },
+          {
+            "title": "unDraw",
+            "url": "https://undraw.co/illustrations"
+          }
+        ]
+      },
+      {
+        "name": "Photography & Media",
+        "links": [
+          {
+            "title": "Cleanup.pictures",
+            "url": "https://cleanup.pictures/"
+          },
+          {
+            "title": "GIPHY",
+            "url": "https://giphy.com/"
+          },
+          {
+            "title": "Photoroom — Background Remover",
+            "url": "https://www.photoroom.com/tools/background-remover"
+          },
+          {
+            "title": "previewed — App Mockup Templates",
+            "url": "https://previewed.app/templates"
+          },
+          {
+            "title": "Readme Typing SVG — Demo",
+            "url": "https://readme-typing-svg.demolab.com/demo/"
+          },
+          {
+            "title": "Unsplash — Free Images",
+            "url": "https://unsplash.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "📚 Learning & Courses",
+    "subs": [
+      {
+        "name": "Web Dev Fundamentals",
+        "links": [
+          {
+            "title": "Complete Intro to Web Dev v3 — Brian Holt",
+            "url": "https://btholt.github.io/complete-intro-to-web-dev-v3"
+          },
+          {
+            "title": "FreeCodeCamp",
+            "url": "https://www.freecodecamp.org/learn"
+          },
+          {
+            "title": "Frontend Developer Handbook 2019",
+            "url": "https://frontendmasters.com/guides/front-end-handbook/2019/#2"
+          },
+          {
+            "title": "Frontend Masters Beginner Learning Path",
+            "url": "https://frontendmasters.com/learn/beginner/"
+          },
+          {
+            "title": "Frontend Masters Bootcamp",
+            "url": "https://frontendmasters.github.io/bootcamp/"
+          },
+          {
+            "title": "Web Dev for Beginners",
+            "url": "https://microsoft.github.io/Web-Dev-For-Beginners/"
+          },
+          {
+            "title": "Web Skills",
+            "url": "https://andreasbm.github.io/web-skills/"
+          },
+          {
+            "title": "Web Style Guide",
+            "url": "https://webstyleguide.com/"
+          }
+        ]
+      },
+      {
+        "name": "Practice & Challenges",
+        "links": [
+          {
+            "title": "CodePen",
+            "url": "https://codepen.io/trending"
+          },
+          {
+            "title": "Frontend Mentor",
+            "url": "https://www.frontendmentor.io/"
+          },
+          {
+            "title": "Frontend Mentor Challenges",
+            "url": "https://www.frontendmentor.io/challenges"
+          },
+          {
+            "title": "Frontend Practice",
+            "url": "https://www.frontendpractice.com/"
+          },
+          {
+            "title": "GreatFrontEnd",
+            "url": "https://www.greatfrontend.com/"
+          },
+          {
+            "title": "Tech Interview Handbook",
+            "url": "https://www.techinterviewhandbook.org/"
+          }
+        ]
+      },
+      {
+        "name": "Platforms & Courses",
+        "links": [
+          {
+            "title": "Codédex",
+            "url": "https://www.codedex.io/home"
+          },
+          {
+            "title": "Codeguage",
+            "url": "https://www.codeguage.com/courses"
+          },
+          {
+            "title": "CodingHeroes by Jonas Schmedtmann",
+            "url": "https://jonas.io/index.html"
+          },
+          {
+            "title": "Computer Science",
+            "url": "https://cs.fyi/"
+          },
+          {
+            "title": "CS50x 2023",
+            "url": "https://cs50.harvard.edu/x/2023/"
+          },
+          {
+            "title": "daily.dev",
+            "url": "https://app.daily.dev/"
+          },
+          {
+            "title": "DEV Community",
+            "url": "https://dev.to/"
+          },
+          {
+            "title": "Educative",
+            "url": "https://www.educative.io/learn"
+          },
+          {
+            "title": "egghead.io",
+            "url": "https://egghead.io/"
+          },
+          {
+            "title": "Lydia Hallie",
+            "url": "https://www.lydiahallie.com/"
+          },
+          {
+            "title": "Mahara Tech",
+            "url": "https://maharatech.gov.eg/"
+          },
+          {
+            "title": "Odoo All Courses",
+            "url": "https://www.odoo.com/slides/all"
+          },
+          {
+            "title": "Roadmap.sh",
+            "url": "https://roadmap.sh/"
+          },
+          {
+            "title": "TutFlix",
+            "url": "https://tutflix.org/forums/development.6/"
+          },
+          {
+            "title": "Watch and Code",
+            "url": "https://watchandcode.com/"
+          },
+          {
+            "title": "Webflow from Beginner to Expert",
+            "url": "https://draw.roadmap.sh/66f2a0bfc45e253cb00216bd"
+          },
+          {
+            "title": "Webflow University",
+            "url": "https://university.webflow.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🛠️ Dev Tools & Utilities",
+    "subs": [
+      {
+        "name": "Code & Project Management",
+        "links": [
+          {
+            "title": "Apify Console",
+            "url": "https://console.apify.com/"
+          },
+          {
+            "title": "Bruno",
+            "url": "https://www.usebruno.com/"
+          },
+          {
+            "title": "Coda",
+            "url": "https://coda.io/"
+          },
+          {
+            "title": "Codecov",
+            "url": "https://app.codecov.io/gh/ZiadNagar"
+          },
+          {
+            "title": "CodeScene",
+            "url": "https://codescene.io/projects"
+          },
+          {
+            "title": "Doppler",
+            "url": "https://dashboard.doppler.com/"
+          },
+          {
+            "title": "Firecrawl",
+            "url": "https://www.firecrawl.dev/app/api-keys"
+          },
+          {
+            "title": "GitHub",
+            "url": "https://github.com/"
+          },
+          {
+            "title": "GitHunt",
+            "url": "https://kamranahmed.info/githunt"
+          },
+          {
+            "title": "GitKraken.dev Tools",
+            "url": "https://gitkraken.dev/tools"
+          },
+          {
+            "title": "JSON Lint",
+            "url": "https://jsonlint.com/"
+          },
+          {
+            "title": "OSS Gallery",
+            "url": "https://oss.gallery/"
+          },
+          {
+            "title": "Testmail",
+            "url": "https://testmail.app/console"
+          },
+          {
+            "title": "Travis CI",
+            "url": "https://app.travis-ci.com/account/repositories"
+          }
+        ]
+      },
+      {
+        "name": "Design & Wireframing",
+        "links": [
+          {
+            "title": "cto.new",
+            "url": "https://cto.new/"
+          },
+          {
+            "title": "Excalidraw",
+            "url": "https://excalidraw.com/"
+          },
+          {
+            "title": "Justinmind",
+            "url": "https://www.justinmind.com/"
+          },
+          {
+            "title": "Penpot",
+            "url": "https://design.penpot.app/"
+          },
+          {
+            "title": "Uizard",
+            "url": "https://app.uizard.io/"
+          },
+          {
+            "title": "Wireflow",
+            "url": "https://app.wireflow.co/"
+          }
+        ]
+      },
+      {
+        "name": "Dev Utilities",
+        "links": [
+          {
+            "title": "docsify",
+            "url": "https://docsify.js.org/"
+          },
+          {
+            "title": "Drawboard",
+            "url": "https://www.drawboard.com/"
+          },
+          {
+            "title": "Jellyfin",
+            "url": "https://jellyfin.org/"
+          },
+          {
+            "title": "LayoutIt",
+            "url": "https://layoutit.com/"
+          },
+          {
+            "title": "Lorem Ipsum Generator",
+            "url": "https://loremipsum.io/"
+          },
+          {
+            "title": "Meta Tags",
+            "url": "https://metatags.io/"
+          },
+          {
+            "title": "RelateDB Studio",
+            "url": "https://relatedb.com/studio"
+          },
+          {
+            "title": "Screen Size Map",
+            "url": "https://screensizemap.com/"
+          },
+          {
+            "title": "Tabby",
+            "url": "https://tabby.sh/"
+          },
+          {
+            "title": "Toolfolio.io",
+            "url": "https://toolfolio.io/blog/comprehensive-collection-for-figma"
+          },
+          {
+            "title": "Visual Design Rules You Can Always Follow",
+            "url": "https://anthonyhobday.com/sideprojects/saferules/"
+          },
+          {
+            "title": "vrtw",
+            "url": "https://vrtw.vercel.app/"
+          },
+          {
+            "title": "WebCatalog",
+            "url": "https://webcatalog.io/en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "💡 Design Inspiration",
+    "subs": [
+      {
+        "name": "Galleries & Awards",
+        "links": [
+          {
+            "title": "Awwwards",
+            "url": "https://www.awwwards.com/"
+          },
+          {
+            "title": "Beautiful Portfolio Websites",
+            "url": "https://minimal.gallery/tag/portfolio/"
+          },
+          {
+            "title": "Bento Grids",
+            "url": "https://bentogrids.com/"
+          },
+          {
+            "title": "BetaList",
+            "url": "https://betalist.com/"
+          },
+          {
+            "title": "Craftwork",
+            "url": "https://craftwork.design/curated/websites/"
+          },
+          {
+            "title": "CSS Design Awards",
+            "url": "https://www.cssdesignawards.com/"
+          },
+          {
+            "title": "CTA.gallery",
+            "url": "https://www.cta.gallery/"
+          },
+          {
+            "title": "Dribbble",
+            "url": "https://dribbble.com/"
+          },
+          {
+            "title": "Footer.design",
+            "url": "https://www.footer.design/"
+          },
+          {
+            "title": "Inspo.page",
+            "url": "https://www.inspo.page/"
+          },
+          {
+            "title": "Landbook",
+            "url": "https://land-book.com/"
+          },
+          {
+            "title": "landing.love",
+            "url": "https://www.landing.love/"
+          },
+          {
+            "title": "Minimal Gallery",
+            "url": "https://minimal.gallery/"
+          },
+          {
+            "title": "Navbar Gallery",
+            "url": "https://www.navbar.gallery/"
+          },
+          {
+            "title": "OGimage.gallery",
+            "url": "https://www.ogimage.gallery/"
+          },
+          {
+            "title": "shoogle.dev",
+            "url": "https://shoogle.dev/"
+          },
+          {
+            "title": "The FWA — Awards",
+            "url": "https://thefwa.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "🎯 No-Code & Low-Code",
+    "subs": [
+      {
+        "name": null,
+        "links": [
+          {
+            "title": "Draftbit",
+            "url": "https://build.draftbit.com/"
+          },
+          {
+            "title": "FlutterFlow",
+            "url": "https://app.flutterflow.io/"
+          },
+          {
+            "title": "Make",
+            "url": "https://www.make.com/en"
+          },
+          {
+            "title": "pop.site",
+            "url": "https://pop.site/"
+          },
+          {
+            "title": "Super",
+            "url": "https://super.so/"
+          }
+        ]
+      }
+    ]
+  }
+]
